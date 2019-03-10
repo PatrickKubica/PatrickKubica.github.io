@@ -1,1 +1,1 @@
-# www.patrickkubica.de
+# https://www.patrickkubica.de/
