@@ -1,2 +1,1 @@
-Website
-https://patrickkubica.github.io/
+website https://patrickkubica.github.io
