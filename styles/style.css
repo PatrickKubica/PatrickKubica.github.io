@@ -6,7 +6,7 @@ body {
 a {
   font-size: 1.25rem;
   text-decoration: none;
-  color: inherit;
+  color: #006400;
 }
 
 h1 {
@@ -27,4 +27,13 @@ h4 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  font-size: 1.25rem;
+  margin: 5px 20% 25px 20%;
 }
