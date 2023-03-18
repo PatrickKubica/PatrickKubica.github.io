@@ -40,3 +40,13 @@ h3 {
   font-size: 1.25rem;
   margin: 5px 20% 40px 20%;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.375rem;
+  }
+}
