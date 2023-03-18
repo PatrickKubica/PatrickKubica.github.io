@@ -11,14 +11,17 @@ a {
 
 h1 {
   font-size: 3rem;
+  margin: 0 0 5px 0;
 }
 
 h2 {
   font-size: 1.625rem;
+  margin-bottom: 5px;
 }
 
 h4 {
   font-size: 1.25rem;
+  margin-bottom: 50px;
 }
 
 .wrapper {
@@ -35,5 +38,5 @@ h4 {
   justify-content: center;
   gap: 20px;
   font-size: 1.25rem;
-  margin: 5px 20% 25px 20%;
+  margin: 5px 20% 40px 20%;
 }
